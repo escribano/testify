@@ -14,8 +14,8 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/davecgh/go-spew/spew"
-	"github.com/pmezard/go-difflib/difflib"
+	"github.com/escribano/go-difflib/difflib"
+	"github.com/escribano/go-spew/spew"
 )
 
 // TestingT is an interface wrapper around *testing.T
